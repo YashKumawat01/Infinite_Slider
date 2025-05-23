@@ -4,7 +4,7 @@ A fully responsive, modern infinite slider that showcases logos and images movin
 This project is a great showcase of pure CSS creativity and animation control, suitable for use in landing pages, portfolios, brand showcases, or modern web interfaces.
 
 📸 Demo
-Check out the live demo here:
+Check out the live demo here: https://yashkumawat01.github.io/Infinite_Slider/
 
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
